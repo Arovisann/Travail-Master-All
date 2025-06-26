@@ -1,0 +1,20 @@
+pd.read_csv(r"C:\Users\alexa\OneDrive\Bureau\Résultat Test Master\Interface 2\1\gaze_emotion_data_1747750592.csv") 
+
+
+
+📚 Sources scientifiques recommandées
+Voici des études utiles sur le sujet :
+
+Holmqvist, K., Nyström, M., Andersson, R., Dewhurst, R., Jarodzka, H., & van de Weijer, J. (2011).
+Eye Tracking: A Comprehensive Guide to Methods and Measures.
+→ Référence clé sur les mouvements oculaires, fixations, saccades et méthodes de traitement.
+
+Zemblys, R., Niehorster, D. C., Holmqvist, K. (2018).
+“gazeNet: End-to-End Eye-Movement Event Detection with Deep Neural Networks”
+Behavior Research Methods.
+→ Montre l'intérêt des modèles statistiques et ML pour classifier les mouvements oculaires.
+
+Ehmke, C., & Wilson, S. (2007).
+“Identifying User Behavior Patterns in Eye Tracking Studies.”
+People and Computers XXI.
+→ Discussion sur comment interpréter des mouvements oculaires liés à la charge cognitive ou frustration.

@@ -1,0 +1,678 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .element-light-wrapper {
+  width: 1920px;
+  height: 1200px;
+  position: relative;
+}
+
+.frame .element-light {
+  position: relative;
+  height: 1200px;
+  background-color: #ffffff;
+  overflow-y: scroll;
+}
+
+.frame .main-margin {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 360px;
+  position: absolute;
+  top: 109px;
+  left: 0;
+}
+
+.frame .main {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  padding: 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .background {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  padding: 64px 370px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -370.00px;
+  margin-right: -370.00px;
+  background-color: #fbfbfb;
+}
+
+.frame .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #1d1d1b;
+  font-size: 32.1px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.frame .container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 0px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #1d1d1b;
+  font-size: 25.9px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.frame .margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .p {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.frame .span {
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.frame .text-wrapper-3 {
+  font-weight: 700;
+}
+
+.frame .component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 17px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #d8d8d8;
+}
+
+.frame .text {
+  flex: 1;
+  margin-top: -1.00px;
+  font-weight: 600;
+  color: #1d1d1b;
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.frame .footer {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 8px 0px 0px;
+  position: absolute;
+  top: 593px;
+  left: 0;
+  background-color: transparent;
+  border-top-width: 8px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: #e20615;
+}
+
+.frame .container-wrapper {
+  padding: 24px 360px;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-3 {
+  display: flex;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .img {
+  position: relative;
+  width: 113px;
+  height: 40px;
+}
+
+.frame .div-wrapper {
+  padding: 8px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-2 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.frame .margin-2 {
+  padding: 0px 0px 0px 20px;
+  margin-left: -5.68e-14px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.01px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .component-2 {
+  display: flex;
+  width: 145.45px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 8px 16px;
+  position: relative;
+  background-color: #e20615;
+  border-radius: 4px;
+}
+
+.frame .component-3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  margin-left: -0.27px;
+}
+
+.frame .text-2 {
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-right: -0.28px;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: relative;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.frame .link-margin {
+  display: flex;
+  flex-direction: column;
+  width: 103.95px;
+  height: 40px;
+  align-items: flex-start;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.frame .component-4 {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.frame .text-3 {
+  flex: 1;
+  margin-top: -13.00px;
+  margin-bottom: -11.00px;
+  font-weight: 600;
+  color: #1d1d1b;
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.frame .container-5 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  padding: 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-6 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .nav-slection-de-la {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .component-5 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.frame .list {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .item {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #1b1b1b;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .item-2 {
+  align-items: center;
+  gap: 0.01px;
+  padding: 2px 0px;
+  display: inline-flex;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .margin-3 {
+  padding: 0px 8px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-4 {
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: 600;
+  color: #e20615;
+  font-size: 14px;
+  line-height: 20px;
+  white-space: nowrap;
+  position: relative;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.frame .component-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -8.17e-14px;
+}
+
+.frame .list-2 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .item-3 {
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 8px 0px 0px;
+  display: inline-flex;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #1b1b1b;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .item-4 {
+  align-items: center;
+  gap: 0.01px;
+  padding: 0px 0px 0.5px;
+  display: inline-flex;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .margin-4 {
+  padding: 0px 8px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .item-5 {
+  align-items: center;
+  gap: 1.42e-14px;
+  padding: 0px 0px 0.5px;
+  display: inline-flex;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .component-wrapper {
+  align-items: center;
+  padding: 0px 0px 0.5px;
+  display: inline-flex;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .background-2 {
+  display: flex;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: center;
+  gap: 12px;
+  padding: 13px 10px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #f2f2f2;
+}
+
+.frame .coop-svg {
+  display: flex;
+  flex-direction: column;
+  max-width: 70px;
+  width: 70px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .coop-svg-fill {
+  display: flex;
+  flex-direction: column;
+  width: 70px;
+  height: 20.94px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0.01px;
+  position: relative;
+}
+
+.frame .component-7 {
+  position: relative;
+  width: 69.98px;
+  height: 20.94px;
+}
+
+.frame .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.frame .header {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.frame .background-border {
+  padding: 24px 360px 21px;
+  background-color: #ffffff;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(216, 216, 216), rgb(0, 0, 0) 0%)
+    1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.frame .link {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-7 {
+  display: inline-flex;
+  height: 64px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .img-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .component-8 {
+  position: relative;
+  width: 235px;
+  height: 64px;
+}
+
+.frame .component-9 {
+  display: inline-flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 17px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #d8d8d8;
+}
+
+.frame .text-5 {
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: 600;
+  color: #1d1d1b;
+  font-size: 16px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: relative;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}

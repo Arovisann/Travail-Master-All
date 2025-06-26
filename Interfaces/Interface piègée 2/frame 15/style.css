@@ -1,0 +1,1622 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .element-light-wrapper {
+  width: 1920px;
+  height: 1879.97px;
+}
+
+.frame .element-light {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  position: relative;
+  background-color: #ffffff;
+  overflow-y: scroll;
+}
+
+.frame .container {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1879.97px;
+}
+
+.frame .background {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  gap: 153.98px;
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.frame .container-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .div {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  align-items: flex-start;
+  padding: 0px 10px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.frame .container-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 12px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .link-margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 30px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 25px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #777777;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .component-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 30px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .component {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0px 30px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .component-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-4 {
+  display: flex;
+  height: 24px;
+  align-items: center;
+  gap: 7px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.frame .img-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1.72px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -0.86px;
+  margin-bottom: -0.86px;
+  z-index: 1;
+}
+
+.frame .img {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.frame .text-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  margin-right: -0.64px;
+  z-index: 0;
+}
+
+.frame .container-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  margin-right: -0.83px;
+  z-index: 0;
+}
+
+.frame .container-6 {
+  display: flex;
+  height: 24px;
+  align-items: center;
+  padding: 0px 0px 1px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.frame .SVG-margin {
+  width: 31px;
+  padding: 0px 7px 0px 0px;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .SVG {
+  display: flex;
+  flex-direction: column;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .component-3 {
+  position: relative;
+  flex: 1;
+  width: 24px;
+  flex-grow: 1;
+}
+
+.frame .text-2 {
+  margin-top: -2.00px;
+  margin-right: -0.70px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #777777;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .list {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .item-margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-3 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #adadad;
+  font-size: 16px;
+  letter-spacing: -0.50px;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .item-fr {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #777777;
+  font-size: 16px;
+  letter-spacing: -0.50px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .item-margin-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .background-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 360px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.frame .container-7 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  gap: 2.84e-14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .background-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 20px 0px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.frame .container-8 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.frame .container-9 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 300px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .link-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 300px;
+  align-items: flex-start;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-10 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .component-4 {
+  position: relative;
+  width: 235px;
+  height: 64px;
+}
+
+.frame .form-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  width: 600px;
+  align-items: flex-start;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame .form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .input-search {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px 151px 12px 11px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #adadad;
+}
+
+.frame .p {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .container-11 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 5px;
+  left: 436px;
+}
+
+.frame .search-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px 6px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #000000;
+  border-radius: 3px;
+}
+
+.frame .SVG-wrapper {
+  width: 28px;
+  padding: 0px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .SVG-2 {
+  display: flex;
+  flex-direction: column;
+  width: 24px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .container-12 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-4 {
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .background-4 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.frame .container-13 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 10px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .background-5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ececec;
+  border-radius: 2px;
+}
+
+.frame .link-margin-2 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 50px;
+  align-items: flex-start;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .component-6 {
+  display: inline-flex;
+  height: 50px;
+  align-items: center;
+  padding: 11.5px 10px 13.5px;
+  position: relative;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: #ececec;
+}
+
+.frame .margin-2 {
+  display: inline-flex;
+  padding: 0px 10px 0px 0px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .div-3 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-5 {
+  margin-top: -2.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #444444;
+  font-size: 15.9px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .text-6 {
+  margin-top: -2.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #444444;
+  font-size: 15.6px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .text-7 {
+  margin-top: -2.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #444444;
+  font-size: 16.3px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .component-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .component-7 {
+  display: flex;
+  align-self: stretch;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+  padding: 11.5px 10px 13.5px;
+  position: relative;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: #ececec;
+}
+
+.frame .text-8 {
+  margin-top: -2.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #444444;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .overlay-shadow {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 19.98px;
+  background-color: #ffffff01;
+  box-shadow: 0px 1px 0px #00000033;
+}
+
+.frame .container-14 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  padding: 0px 10px;
+  position: absolute;
+  top: 429px;
+  left: 360px;
+}
+
+.frame .container-15 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 245px;
+}
+
+.frame .heading {
+  max-width: 1180px;
+  width: 1180px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.frame .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 29.8px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.frame .container-16 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+}
+
+.frame .div-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.frame .span {
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.frame .text-wrapper-3 {
+  font-weight: 600;
+}
+
+.frame .container-17 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1180px;
+  align-items: flex-start;
+  gap: 0px 0px;
+  padding: 0px 0px 10px;
+  position: absolute;
+  top: 195px;
+  left: 0;
+}
+
+.frame .component-8 {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 20px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #fbfbfb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.frame .border {
+  position: absolute;
+  width: 199px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #d8d8d8;
+}
+
+.frame .text-9 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .container-18 {
+  position: absolute;
+  width: 1920px;
+  height: 1146px;
+  top: 734px;
+  left: 0;
+}
+
+.frame .background-border-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 360px;
+}
+
+.frame .background-border {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 21px 11px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #f8f8f8;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #ececec;
+}
+
+.frame .container-19 {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  width: 883.5px;
+  align-items: flex-start;
+  gap: 9.5px;
+  padding: 0px 10px;
+  position: relative;
+  align-self: stretch;
+}
+
+.frame .heading-2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 883.5px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.frame .inscrivez-vous-notre {
+  position: relative;
+  width: fit-content;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.frame .container-20 {
+  display: flex;
+  max-width: 300px;
+  width: 294.5px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame .component-9 {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 7.5px 20px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: #e20613;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.frame .margin-3 {
+  display: inline-flex;
+  padding: 0px 0px 0px 8px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .text-10 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .background-6 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 37px 360px 10px;
+  position: absolute;
+  top: 214px;
+  left: 0;
+  background-color: #f8f8f8;
+  border-top-width: 7px;
+  border-top-style: solid;
+  border-color: #e20713;
+}
+
+.frame .container-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .margin-4 {
+  display: flex;
+  height: 541px;
+  justify-content: center;
+  padding: 0px 0px 18px;
+  align-self: stretch;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .container-22 {
+  display: flex;
+  height: 523px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .container-23 {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 300px;
+  align-items: flex-start;
+  padding: 0px 10px 18px;
+  position: relative;
+  align-self: stretch;
+}
+
+.frame .container-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 10px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .component-10 {
+  position: relative;
+  width: 113px;
+  height: 40px;
+}
+
+.frame .background-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #f8f8f8;
+}
+
+.frame .container-25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .component-11 {
+  display: flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 49.48px 8px 49.45px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #e20613;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.frame .SVG-margin-2 {
+  display: flex;
+  flex-direction: column;
+  width: 31px;
+  height: 24px;
+  align-items: flex-start;
+  padding: 0px 7px 0px 0px;
+  position: relative;
+}
+
+.frame .component-12 {
+  display: flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 15px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #fbfbfb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.frame .border-2 {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #d8d8d8;
+}
+
+.frame .container-26 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 3px 0.05px 0px 0px;
+  position: relative;
+  align-self: stretch;
+}
+
+.frame .container-27 {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  align-items: flex-start;
+  padding: 0px 10px 18px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.frame .container-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 13px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-3 {
+  max-width: 279.98px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.frame .item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .text-11 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #777777;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .container-29 {
+  display: flex;
+  flex-wrap: wrap;
+  height: 251px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 3px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .container-30 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .heading-4 {
+  display: flex;
+  flex-direction: column;
+  max-width: 280px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .component-13 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .SUPERCARD-svg {
+  display: flex;
+  flex-direction: column;
+  width: 60px;
+  height: 40px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .SUPERCARD-svg-fill {
+  display: flex;
+  flex-direction: column;
+  width: 60px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .component-14 {
+  position: relative;
+  width: 60px;
+  height: 40px;
+}
+
+.frame .text-12 {
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #777777;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .container-31 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19px;
+  padding: 0px 0px 56px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .list-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .item-2 {
+  display: flex;
+  align-items: center;
+  padding: 0px 0px 1px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .item-3 {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-32 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .container-33 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 144px;
+}
+
+.frame .component-15 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.frame .component-16 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 0;
+  left: 72px;
+}
+
+.frame .component-17 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 0;
+  left: 144px;
+}
+
+.frame .component-18 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 0;
+  left: 216px;
+}
+
+.frame .component-19 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 52px;
+  left: 0;
+}
+
+.frame .component-20 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 52px;
+  left: 72px;
+}
+
+.frame .component-21 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 52px;
+  left: 144px;
+}
+
+.frame .component-22 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 52px;
+  left: 216px;
+}
+
+.frame .component-23 {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  top: 104px;
+  left: 0;
+}
+
+.frame .horizontal-border-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  position: absolute;
+  top: 1062px;
+  left: 360px;
+}
+
+.frame .horizontal-border {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 0px 11px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #f2f2f2;
+}
+
+.frame .container-34 {
+  display: flex;
+  max-width: 1200px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.frame .container-35 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .item-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 9.99px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-13 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #444444;
+  font-size: 14px;
+  letter-spacing: -0.50px;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .text-wrapper-5 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #1d1d1b;
+  font-size: 14px;
+  letter-spacing: -0.50px;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .item-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #e20713;
+  font-size: 14px;
+  letter-spacing: -0.50px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .list-3 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+  padding: 0px 0px 0px 40px;
+  align-self: stretch;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .item-6 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 9.99px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #1d1d1b;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .item-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .text-14 {
+  margin-top: -1.00px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .item-8 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 9.99px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.frame .container-36 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  position: absolute;
+  top: 1098px;
+  left: 360px;
+}
+
+.frame .container-37 {
+  display: flex;
+  max-width: 1200px;
+  height: 48px;
+  align-items: center;
+  gap: 12px;
+  padding: 11.5px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.frame .link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 3.72px 0px 1.28px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .coop-svg {
+  display: inline-flex;
+  height: 20px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame .coop-svg-fill {
+  display: flex;
+  flex-direction: column;
+  width: 66.83px;
+  height: 20px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0px;
+  position: relative;
+}
+
+.frame .component-24 {
+  position: relative;
+  width: 66.83px;
+  height: 20px;
+}
+
+.frame .background-8 {
+  position: absolute;
+  width: 1920px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}

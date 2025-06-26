@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reset Local Storage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: red;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: darkred;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Réinitialiser le Local Storage</h1>
+    <p>Cliquez sur le bouton ci-dessous pour effacer toutes les données stockées localement et commencer l'expérience.</p>
+    
+    <button id="reset-button">Démarrer l'expérience</button>
+
+    <script>
+        document.getElementById("reset-button").addEventListener("click", function () {
+            localStorage.clear();
+            alert("Local Storage réinitialisé !");
+            // Redirection vers la première page du site e-commerce
+            window.location.href = "index/index.html"; // Remplace ce chemin par la bonne URL si nécessaire
+        });
+
+            document.getElementById("reset-button").addEventListener("click", function () {
+                localStorage.clear(); // Reset de toutes les données
+                const startTime = Date.now();
+                localStorage.setItem("experienceStartTime", startTime);
+                console.log("Expérience démarrée à", new Date(startTime).toLocaleTimeString());
+
+                alert("Expérience démarrée !");
+                window.location.href = "../index/index.html";
+            });
+    </script>
+
+</body>
+</html>
